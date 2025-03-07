@@ -1,5 +1,8 @@
 <header>
 .
+
+![example branch parameter.](https://github.com/williamt-infomagnus/skills-test-with-actions/actions/workflows/ci.yml/badge.svg?branch=main)
+  
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
