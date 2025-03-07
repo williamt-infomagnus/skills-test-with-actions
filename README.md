@@ -1,10 +1,15 @@
 <header>
 .
 
-![example branch parameter.](https://github.com/williamt-infomagnus/skills-test-with-actions/actions/workflows/ci.yml/badge.svg?branch=main)
+| Branch | Status | 
+|----------|----------|
+| main | ![example branch parameter.](https://github.com/williamt-infomagnus/skills-test-with-actions/actions/workflows/ci.yml/badge.svg?branch=main) | 
+| 2 | ![example branch parameter.](https://github.com/williamt-infomagnus/skills-test-with-actions/actions/workflows/dependabot/dependabot-updates/badge.svg?branch=main) |
 
-![example branch parameter.](https://github.com/williamt-infomagnus/skills-test-with-actions/actions/workflows/dependabot/dependabot-updates/badge.svg?branch=main)
-  
+[![CI](https://github.com/williamt-infomagnus/skills-test-with-actions/actions/workflows/ci.yml/badge.svg?branch=ci&event=issues)](https://github.com/williamt-infomagnus/skills-test-with-actions/actions/workflows/ci.yml)
+
+[![CI](https://github.com/williamt-infomagnus/skills-test-with-actions/actions/workflows/ci.yml/badge.svg?branch=ci&event=discussion)](https://github.com/williamt-infomagnus/skills-test-with-actions/actions/workflows/ci.yml)
+
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
