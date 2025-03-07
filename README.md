@@ -2,6 +2,8 @@
 .
 
 ![example branch parameter.](https://github.com/williamt-infomagnus/skills-test-with-actions/actions/workflows/ci.yml/badge.svg?branch=main)
+
+![example branch parameter.](https://github.com/williamt-infomagnus/skills-test-with-actions/actions/workflows/dependabot/dependabot-updates/badge.svg?branch=main)
   
 <!--
   <<< Author notes: Course header >>>
